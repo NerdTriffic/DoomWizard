@@ -45,9 +45,11 @@ No administrator rights required.
 ## Installation
 Download the latest release.
 
+Insert your memory card into your computer
+
 Extract the files into your doomengines folder. Typically ROMS/ports/doomengines
 
-Double-click Doom Wizard.bat
+Double-click Doom Wizard.bat directly on the memorycard
 
 Follow the prompts.
 
@@ -73,9 +75,9 @@ doomengines/
 # Usage
 ## Step 1
 
-Insert your memorycard into the computer
+Insert your memory card into the computer
 
-Copy your Doom mods into the Mods folder
+Copy your Doom mods into the Mods folder, typically ROMS/ports/doomengines/mods
 
 Supported formats:
 
@@ -100,6 +102,8 @@ Choose save folder name or leave empty to use launcher name
 Select an IWAD
 
 Select mods to load
+
+Exit or create another
 
 ## Step 4
 
