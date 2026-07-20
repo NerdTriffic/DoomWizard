@@ -73,7 +73,9 @@ doomengines/
 # Usage
 ## Step 1
 
-Copy your Doom mods into the Mods folder.
+Insert your memorycard into the computer
+
+Copy your Doom mods into the Mods folder
 
 Supported formats:
 
@@ -91,33 +93,40 @@ Doom Wizard.bat
 Follow the prompts:
 
 Enter launcher name
+
 Choose save folder name or leave empty to use launcher name
+
 Select an IWAD
+
 Select mods to load
 
 ## Step 4
 
-DoomWizard automatically:
+Eject memorycard
 
-Creates a save folder
-Creates a dedicated gzdoom.ini
-Configures the save directory
-Generates a PortMaster-compatible .doom launcher
+Insert it into your handheld
 
-Done.
+Done!
 
-Current Release
+## Current Release
+
 PortMaster Edition v0.1.2
 
 Features included:
 
 Launcher generation
+
 Save folder generation
+
 Per-launcher configuration files
+
 IWAD detection
+
 Duplicate launcher prevention
+
 One-click launcher
-Why DoomWizard?
+
+## Why DoomWizard?
 
 Creating PortMaster launchers manually can become repetitive and error-prone when managing multiple mods.
 
