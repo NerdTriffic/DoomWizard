@@ -80,6 +80,7 @@ Copy your Doom mods into the Mods folder
 Supported formats:
 
 .wad
+
 .pk3
 
 ## Step 2
@@ -102,29 +103,15 @@ Select mods to load
 
 ## Step 4
 
-Eject memorycard
+Eject memory card
 
 Insert it into your handheld
 
-Done!
+Launch Doom Engines and enjoy!
 
 ## Current Release
 
 PortMaster Edition v0.1.2
-
-Features included:
-
-Launcher generation
-
-Save folder generation
-
-Per-launcher configuration files
-
-IWAD detection
-
-Duplicate launcher prevention
-
-One-click launcher
 
 ## Why DoomWizard?
 
