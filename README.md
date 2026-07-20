@@ -54,7 +54,7 @@ Double-click Doom Wizard.bat directly on the memorycard
 Follow the prompts.
 
 
-Expected Folder Structure
+## Expected Folder Structure
 
 doomengines/
 
