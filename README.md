@@ -11,7 +11,7 @@ The goal is simple:
 
 Download mods → Run DoomWizard → Play
 
-Features
+## Features
 Automatic .doom launcher creation
 Automatic save folder creation
 Dedicated gzdoom.ini for every launcher
@@ -24,14 +24,14 @@ Save folder name sanitization
 Create multiple launchers in a single session
 One-click BAT launcher
 
-Requirements
+## Requirements
 Windows PC
 PortMaster Doom Engines
 PowerShell (included with Windows)
 
 No administrator rights required.
 
-Installation
+## Installation
 Download the latest release.
 Extract the files into your doomengines folder.
 Double-click Doom Wizard.bat.
@@ -45,8 +45,9 @@ doomengines/
 ├── doomfiles/
 ├── iwads/
 └── configs/
-Usage
-Step 1
+
+# Usage
+## Step 1
 
 Copy your Doom mods into the Mods folder.
 
@@ -54,12 +55,14 @@ Supported formats:
 
 .wad
 .pk3
-Step 2
+
+## Step 2
 
 Launch:
 
 Doom Wizard.bat
-Step 3
+
+## Step 3
 
 Follow the prompts:
 
@@ -67,7 +70,8 @@ Enter launcher name
 Choose save folder name
 Select an IWAD
 Select mods to load
-Step 4
+
+## Step 4
 
 DoomWizard automatically:
 
@@ -95,7 +99,7 @@ Creating PortMaster launchers manually can become repetitive and error-prone whe
 
 DoomWizard removes the tedious setup process so you can spend less time editing configuration files and more time playing Doom.
 
-License
+## License
 
 Free to use, modify, and share.
 
