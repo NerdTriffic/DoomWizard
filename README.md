@@ -5,7 +5,7 @@ Simplifying Doom mod setup, one launcher at a time. Currently featuring PortMast
 
 DoomWizard is a utility that automates the creation of Doom Engines launcher profiles for PortMaster.
 
-Instead of manually creating .doom launcher files, creating save folders, copying gzdoom.ini, configuring save paths, and selecting IWADs, DoomWizard handles everything through a simple guided wizard.
+Instead of manually creating .doom launcher files, creating save folders, copying gzdoom.ini, configuring save paths, and selecting IWADs/Mods, DoomWizard handles everything through a simple guided wizard.
 
 The goal is simple:
 
