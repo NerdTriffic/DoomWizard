@@ -36,11 +36,12 @@ No administrator rights required.
 ## Installation
 Download the latest release.
 
-Extract the files into your doomengines folder.
+Extract the files into your doomengines folder. Typically ROMS/ports/doomengines
 
 Double-click Doom Wizard.bat
 
 Follow the prompts.
+
 
 Expected Folder Structure
 
@@ -81,7 +82,7 @@ Doom Wizard.bat
 Follow the prompts:
 
 Enter launcher name
-Choose save folder name
+Choose save folder name or leave empty to use launcher name
 Select an IWAD
 Select mods to load
 
