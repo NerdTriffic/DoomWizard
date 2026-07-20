@@ -26,7 +26,9 @@ One-click BAT launcher
 
 ## Requirements
 Windows PC
+
 PortMaster Doom Engines
+
 PowerShell (included with Windows)
 
 No administrator rights required.
