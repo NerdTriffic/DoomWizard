@@ -12,16 +12,25 @@ The goal is simple:
 Download mods → Run DoomWizard → Play
 
 ## Features
+
 Automatic .doom launcher creation
+
 Automatic save folder creation
+
 Dedicated gzdoom.ini for every launcher
+
 Automatic save directory configuration
+
 Multiple PK3 and WAD mod support
+
 IWAD selection
-IWAD validation
+
 Duplicate launcher protection
+
 Save folder name sanitization
+
 Create multiple launchers in a single session
+
 One-click BAT launcher
 
 ## Requirements
