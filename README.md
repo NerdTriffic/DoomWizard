@@ -35,17 +35,29 @@ No administrator rights required.
 
 ## Installation
 Download the latest release.
+
 Extract the files into your doomengines folder.
-Double-click Doom Wizard.bat.
+
+Double-click Doom Wizard.bat
+
 Follow the prompts.
+
 Expected Folder Structure
+
 doomengines/
+
 │
+
 ├── Doom Wizard.bat
+
 ├── DoomWizard-Core.ps1
+
 ├── Mods/
+
 ├── doomfiles/
+
 ├── iwads/
+
 └── configs/
 
 # Usage
